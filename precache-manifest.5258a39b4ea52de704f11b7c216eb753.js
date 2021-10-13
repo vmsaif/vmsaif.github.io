@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63e3e6be7387905b84c4ece4c9665e41",
+    "revision": "b2f8b1c4ea6f4cad65920e5aa04a0ef4",
     "url": "/index.html"
   },
   {
-    "revision": "60b8eacf3c58e52e20d7",
-    "url": "/static/css/main.f82e07ec.chunk.css"
+    "revision": "129aa55a82c5bbb5b575",
+    "url": "/static/css/main.19896bc4.chunk.css"
   },
   {
-    "revision": "99e406339f392e2e65f6",
-    "url": "/static/js/2.e7fa9566.chunk.js"
+    "revision": "eb1b56cf5147c284e770",
+    "url": "/static/js/2.454e7b60.chunk.js"
   },
   {
-    "revision": "60b8eacf3c58e52e20d7",
-    "url": "/static/js/main.11f0beb9.chunk.js"
+    "revision": "129aa55a82c5bbb5b575",
+    "url": "/static/js/main.a63eac1e.chunk.js"
   },
   {
     "revision": "5b7dedf89d3083a46101",
@@ -52,10 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Ideal_College_logo_2019.7d1c71df.png"
   },
   {
-    "revision": "21ab4078fddf489754ee3d43ba9a6ab1",
-    "url": "/static/media/Junior_Laboratory_high_school.21ab4078.png"
-  },
-  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
@@ -80,12 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animated_logo.a633be2f.svg"
   },
   {
+    "revision": "29ec02aeaabb65124f601090c5d07174",
+    "url": "/static/media/aust_logo.29ec02ae.svg"
+  },
+  {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "/static/media/blogs_image.b6b12c7d.svg"
   },
   {
     "revision": "b47b1adb2f1e6e71cec07ee3357ce110",
     "url": "/static/media/britishCouncil.b47b1adb.png"
+  },
+  {
+    "revision": "f9a9c3b4ec04815f02138c2a8acd35dc",
+    "url": "/static/media/captain.f9a9c3b4.png"
   },
   {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
@@ -100,12 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMail.d6d4086f.png"
   },
   {
+    "revision": "9dfb53ac49f8bd19d906479c1ad12432",
+    "url": "/static/media/cooking.9dfb53ac.png"
+  },
+  {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
     "url": "/static/media/data_science.434d2b01.svg"
   },
   {
     "revision": "7a9b2eb087350abacd2587dd578226c7",
     "url": "/static/media/deeplearning_ai_logo.7a9b2eb0.png"
+  },
+  {
+    "revision": "f982229e59fe7a8de0dea72ee2aebeda",
+    "url": "/static/media/devClub.f982229e.jpg"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
@@ -184,12 +196,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
+    "revision": "309e518c0241673e96c6f952f9f2954d",
+    "url": "/static/media/fcv.309e518c.png"
+  },
+  {
     "revision": "a73310ea0ad8aebedb65b3106024427a",
     "url": "/static/media/feelingProud.a73310ea.svg"
   },
   {
     "revision": "589bec7d632ecff9672dc4da97897bbd",
     "url": "/static/media/fullstack.589bec7d.svg"
+  },
+  {
+    "revision": "9ea8ee6077197e5f202fb5ef8684b203",
+    "url": "/static/media/gamer.9ea8ee60.png"
   },
   {
     "revision": "ba18401b15f40a463898b706cc6ff08c",
@@ -212,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.c24ba791.svg"
   },
   {
+    "revision": "f55e047abd452ec9179d50d3c21bb0f0",
+    "url": "/static/media/guitar.f55e047a.png"
+  },
+  {
     "revision": "246569817742245e95756a05f8067f0c",
     "url": "/static/media/hsc.24656981.jpg"
   },
@@ -226,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "21ab4078fddf489754ee3d43ba9a6ab1",
+    "url": "/static/media/jlab.21ab4078.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
@@ -276,7 +304,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
   },
   {
+    "revision": "c11f3932b9de4fa248c1ba050ac89352",
+    "url": "/static/media/travel.c11f3932.png"
+  },
+  {
+    "revision": "6bc01f358f644725f7c714100b7bb007",
+    "url": "/static/media/tutor.6bc01f35.png"
+  },
+  {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "a0762ed0e41b899640b86294148e7875",
+    "url": "/static/media/ygrial.a0762ed0.jpg"
   }
 ]);
