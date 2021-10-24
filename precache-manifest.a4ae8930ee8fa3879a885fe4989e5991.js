@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "012891f50d1f6ad2d916fc0abb3fa9c9",
+    "revision": "a10fc5ef91ca2bd83b5eff05fcaa9264",
     "url": "/index.html"
   },
   {
-    "revision": "780c36b4b55f69d414ea",
+    "revision": "177698fff0193e064e37",
     "url": "/static/css/main.19896bc4.chunk.css"
   },
   {
-    "revision": "eb1b56cf5147c284e770",
-    "url": "/static/js/2.454e7b60.chunk.js"
+    "revision": "59676742eb6b1a3cca65",
+    "url": "/static/js/2.515e1f05.chunk.js"
   },
   {
-    "revision": "780c36b4b55f69d414ea",
-    "url": "/static/js/main.0ea28cec.chunk.js"
+    "revision": "177698fff0193e064e37",
+    "url": "/static/js/main.0863a7b8.chunk.js"
   },
   {
     "revision": "5b7dedf89d3083a46101",
@@ -122,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "f65ee6f64b46db0ae0f59279ea7853a8",
-    "url": "/static/media/dsc_logo.f65ee6f6.png"
   },
   {
     "revision": "caed892b2a0b817a8e275ae29638edaf",
@@ -260,20 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jsFramework.b05ae5b5.svg"
   },
   {
-    "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
-    "url": "/static/media/legato_logo.4ba886ba.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
-    "url": "/static/media/muffito_logo.db6c1c0d.png"
-  },
-  {
-    "revision": "cd7077f7a08bffdb11e13093424e13fd",
-    "url": "/static/media/nptel_logo.cd7077f7.png"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
@@ -286,14 +270,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f7964c6bf45e77547f1e5aae1e1dede0",
     "url": "/static/media/projects_image.f7964c6b.svg"
-  },
-  {
-    "revision": "bd5f4148a754968cb4444206539c565c",
-    "url": "/static/media/pwa.bd5f4148.png"
-  },
-  {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/static/media/stanford_logo.da0e7c80.png"
   },
   {
     "revision": "de3da8064f2e9ffab945772c2c67e46f",
@@ -314,6 +290,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "9a6f62531ba6158d3a7f13c6b707b79f",
+    "url": "/static/media/wsgf.9a6f6253.png"
   },
   {
     "revision": "a0762ed0e41b899640b86294148e7875",
