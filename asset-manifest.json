@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.19896bc4.chunk.css",
-    "main.js": "/static/js/main.0863a7b8.chunk.js",
-    "main.js.map": "/static/js/main.0863a7b8.chunk.js.map",
+    "main.css": "/static/css/main.7cf96e8d.chunk.css",
+    "main.js": "/static/js/main.c9945f92.chunk.js",
+    "main.js.map": "/static/js/main.c9945f92.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf9a2b62.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf9a2b62.js.map",
     "static/js/2.515e1f05.chunk.js": "/static/js/2.515e1f05.chunk.js",
     "static/js/2.515e1f05.chunk.js.map": "/static/js/2.515e1f05.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a4ae8930ee8fa3879a885fe4989e5991.js": "/precache-manifest.a4ae8930ee8fa3879a885fe4989e5991.js",
+    "precache-manifest.92f8de60042c83ec0b82cf7b985aea6d.js": "/precache-manifest.92f8de60042c83ec0b82cf7b985aea6d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.19896bc4.chunk.css.map": "/static/css/main.19896bc4.chunk.css.map",
+    "static/css/main.7cf96e8d.chunk.css.map": "/static/css/main.7cf96e8d.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Ideal_College_logo_2019.png": "/static/media/Ideal_College_logo_2019.7d1c71df.png",
     "static/media/NewHorizonCLC.png": "/static/media/NewHorizonCLC.4c58e133.png",
@@ -64,7 +64,7 @@
   "entrypoints": [
     "static/js/runtime-main.bf9a2b62.js",
     "static/js/2.515e1f05.chunk.js",
-    "static/css/main.19896bc4.chunk.css",
-    "static/js/main.0863a7b8.chunk.js"
+    "static/css/main.7cf96e8d.chunk.css",
+    "static/js/main.c9945f92.chunk.js"
   ]
 }
