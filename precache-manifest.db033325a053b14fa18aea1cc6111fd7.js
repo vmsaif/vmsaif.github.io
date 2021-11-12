@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64fef7cd98a1c4865996fa8f0391fd68",
+    "revision": "b8d2c275cea80c45f5235eaf8c972561",
     "url": "/index.html"
   },
   {
-    "revision": "b8410a1ba7248af2c716",
+    "revision": "1208b437d35f64a55e41",
     "url": "/static/css/main.7cf96e8d.chunk.css"
   },
   {
-    "revision": "59676742eb6b1a3cca65",
-    "url": "/static/js/2.515e1f05.chunk.js"
+    "revision": "6133482d24fc458d9ae3",
+    "url": "/static/js/2.e59d0345.chunk.js"
   },
   {
-    "revision": "b8410a1ba7248af2c716",
-    "url": "/static/js/main.3cdae852.chunk.js"
+    "revision": "1208b437d35f64a55e41",
+    "url": "/static/js/main.694b8a7c.chunk.js"
   },
   {
     "revision": "5b7dedf89d3083a46101",
@@ -290,6 +290,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "47ac9706afa056ac8776590672f75e70",
+    "url": "/static/media/undraw_on_the_office_fbfs.47ac9706.svg"
   },
   {
     "revision": "9a6f62531ba6158d3a7f13c6b707b79f",
