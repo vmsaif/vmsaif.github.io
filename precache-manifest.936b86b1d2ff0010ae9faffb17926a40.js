@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1721b237daa31fee2d6fd3d4fc421333",
+    "revision": "8d060930c90ad2f7ae1c36d798e39f97",
     "url": "/index.html"
   },
   {
-    "revision": "2ccb8416cf592e1bc376",
+    "revision": "13ee6e782fbe226f9add",
     "url": "/static/css/main.20a7eea5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.852ff0b2.chunk.js"
   },
   {
-    "revision": "2ccb8416cf592e1bc376",
-    "url": "/static/js/main.8f98b68a.chunk.js"
+    "revision": "13ee6e782fbe226f9add",
+    "url": "/static/js/main.de1e113b.chunk.js"
   },
   {
     "revision": "5b7dedf89d3083a46101",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/NewHorizonCLC.4c58e133.png"
   },
   {
-    "revision": "3c445dbec89f152e8c890a611a5d3d5a",
-    "url": "/static/media/SaifMahmud.3c445dbe.png"
+    "revision": "13a89c4425fda86445ebec87d9d393f3",
+    "url": "/static/media/SaifMahmud.13a89c44.png"
   },
   {
     "revision": "b6de664a71201d59fddac7fa524ae6b3",

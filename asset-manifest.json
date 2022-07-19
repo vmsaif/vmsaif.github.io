@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.20a7eea5.chunk.css",
-    "main.js": "/static/js/main.8f98b68a.chunk.js",
-    "main.js.map": "/static/js/main.8f98b68a.chunk.js.map",
+    "main.js": "/static/js/main.de1e113b.chunk.js",
+    "main.js.map": "/static/js/main.de1e113b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf9a2b62.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf9a2b62.js.map",
     "static/js/2.852ff0b2.chunk.js": "/static/js/2.852ff0b2.chunk.js",
     "static/js/2.852ff0b2.chunk.js.map": "/static/js/2.852ff0b2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f779105c13a788a2110ed0460f026c7f.js": "/precache-manifest.f779105c13a788a2110ed0460f026c7f.js",
+    "precache-manifest.936b86b1d2ff0010ae9faffb17926a40.js": "/precache-manifest.936b86b1d2ff0010ae9faffb17926a40.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.20a7eea5.chunk.css.map": "/static/css/main.20a7eea5.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Ideal_College_logo_2019.png": "/static/media/Ideal_College_logo_2019.7d1c71df.png",
     "static/media/Junior_Laboratory_high_school.png": "/static/media/Junior_Laboratory_high_school.21ab4078.png",
     "static/media/NewHorizonCLC.png": "/static/media/NewHorizonCLC.4c58e133.png",
-    "static/media/SaifMahmud.png": "/static/media/SaifMahmud.3c445dbe.png",
+    "static/media/SaifMahmud.png": "/static/media/SaifMahmud.13a89c44.png",
     "static/media/SaifMahmud2.png": "/static/media/SaifMahmud2.b6de664a.png",
     "static/media/SaifMahmud3.png": "/static/media/SaifMahmud3.b63e51db.png",
     "static/media/UM_Logo_VERT_RGB.png": "/static/media/UM_Logo_VERT_RGB.77929317.png",
@@ -59,6 +59,6 @@
     "static/js/runtime-main.bf9a2b62.js",
     "static/js/2.852ff0b2.chunk.js",
     "static/css/main.20a7eea5.chunk.css",
-    "static/js/main.8f98b68a.chunk.js"
+    "static/js/main.de1e113b.chunk.js"
   ]
 }
