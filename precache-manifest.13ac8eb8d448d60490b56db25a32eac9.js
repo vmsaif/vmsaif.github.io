@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06c94795ed9a844f9730e578a2e2b68e",
+    "revision": "b085dd1ab13303f30effa2846676be56",
     "url": "/index.html"
   },
   {
-    "revision": "e6e500b5a924c5011944",
-    "url": "/static/css/main.ff901749.chunk.css"
+    "revision": "891975fa0615723e45bf",
+    "url": "/static/css/main.78eda25e.chunk.css"
   },
   {
-    "revision": "992c3a8547c09e7b7a62",
-    "url": "/static/js/2.f89d5061.chunk.js"
+    "revision": "8fa0bfd30752d231d3d7",
+    "url": "/static/js/2.73bf8d74.chunk.js"
   },
   {
-    "revision": "e6e500b5a924c5011944",
-    "url": "/static/js/main.20f67cc4.chunk.js"
+    "revision": "891975fa0615723e45bf",
+    "url": "/static/js/main.d8141dbf.chunk.js"
   },
   {
-    "revision": "5b7dedf89d3083a46101",
-    "url": "/static/js/runtime-main.bf9a2b62.js"
+    "revision": "3b8e8c82881914a6d2b9",
+    "url": "/static/js/runtime-main.8cc0aa18.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "6112023c21f3c145fadd31e7208ad005",
+    "url": "/static/media/Attention Mechanism.6112023c.png"
+  },
+  {
+    "revision": "dd99f5519026507876f30ac92f9c160d",
+    "url": "/static/media/Encoder-Decoder Architecture.dd99f551.png"
+  },
+  {
+    "revision": "6b5a16edb2cfc5b4899f0e081fe91800",
+    "url": "/static/media/Generative AI Fundamentals.6b5a16ed.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -52,6 +64,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Ideal_College_logo_2019.7d1c71df.png"
   },
   {
+    "revision": "325061442bc3520d471962bc0e4b5cf4",
+    "url": "/static/media/Introduction to Generative AI.32506144.png"
+  },
+  {
+    "revision": "e0f74eb98cc3860d408b6832adb1479e",
+    "url": "/static/media/Introduction to Image Generation.e0f74eb9.png"
+  },
+  {
+    "revision": "7c90ebf0fb108c125d1c4a1b6425c20d",
+    "url": "/static/media/Introduction to Responsible AI.7c90ebf0.png"
+  },
+  {
     "revision": "21ab4078fddf489754ee3d43ba9a6ab1",
     "url": "/static/media/Junior_Laboratory_high_school.21ab4078.png"
   },
@@ -62,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4c58e133470b033012ebb20914508d3e",
     "url": "/static/media/NewHorizonCLC.4c58e133.png"
+  },
+  {
+    "revision": "303b76636458f92d579d1ad25a20e066",
+    "url": "/static/media/Responsible AI_Applying AI Principles.303b7663.png"
   },
   {
     "revision": "13a89c4425fda86445ebec87d9d393f3",
@@ -76,16 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/SaifMahmud3.b63e51db.png"
   },
   {
+    "revision": "0575e9a5f4005d9d9c504d3c4eaaf7b5",
+    "url": "/static/media/Transformer Models and BERT Model.0575e9a5.png"
+  },
+  {
     "revision": "779293171620727cdb238ef4cafaef0b",
     "url": "/static/media/UM_Logo_VERT_RGB.77929317.png"
   },
   {
-    "revision": "964831cfd8782212f23455a5fd114db2",
-    "url": "/static/media/address_image.964831cf.svg"
+    "revision": "0c5f5b2b1fcd5bd2419b6bbea8c98ba8",
+    "url": "/static/media/address_image.0c5f5b2b.svg"
   },
   {
-    "revision": "e0e225f8f8f8c6cdf604600cff643bfe",
-    "url": "/static/media/aust.e0e225f8.svg"
+    "revision": "29ec02aeaabb65124f601090c5d07174",
+    "url": "/static/media/aust.29ec02ae.svg"
   },
   {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
@@ -100,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/captain.f9a9c3b4.png"
   },
   {
-    "revision": "91e09f23501db4b0f8cbdd2fa27cecf0",
-    "url": "/static/media/cloud_infrastructure.91e09f23.svg"
+    "revision": "0aefb02a21dd2f5108ea21481cc4a814",
+    "url": "/static/media/cloud_infrastructure.0aefb02a.svg"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -136,8 +168,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-brands-400.5063b105.eot"
   },
   {
-    "revision": "a9c4bb7348f42626454c988dbde1d0a0",
-    "url": "/static/media/fa-brands-400.a9c4bb73.svg"
+    "revision": "9d204f50ec8e5bcc5dcda0132d404b48",
+    "url": "/static/media/fa-brands-400.9d204f50.svg"
   },
   {
     "revision": "c5e0f14f88a828261ba01558ce2bf26f",
@@ -152,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-regular-400.65b286af.ttf"
   },
   {
-    "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
-    "url": "/static/media/fa-regular-400.7b9568e6.svg"
+    "revision": "9443c1e7fdf95d739af3f0901224f90a",
+    "url": "/static/media/fa-regular-400.9443c1e7.svg"
   },
   {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
@@ -176,16 +208,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.333bae20.woff"
   },
   {
+    "revision": "3d102342391af184d5ae9e7708d8220f",
+    "url": "/static/media/fa-solid-900.3d102342.svg"
+  },
+  {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
     "url": "/static/media/fa-solid-900.44d537ab.woff2"
   },
   {
     "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
-  },
-  {
-    "revision": "c2801fb415f03c7b170934769d7b5397",
-    "url": "/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
     "revision": "a73310ea0ad8aebedb65b3106024427a",
@@ -236,12 +268,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sscHsc.24656981.png"
   },
   {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/static/media/talksCardBack.0288c5ec.svg"
+    "revision": "de3da8064f2e9ffab945772c2c67e46f",
+    "url": "/static/media/talksCardBack.de3da806.svg"
   },
   {
-    "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
-    "url": "/static/media/talksCardBackAlt.b48e86c9.svg"
+    "revision": "7f0feeedda08cf7d68593454bc2e82b5",
+    "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
   },
   {
     "revision": "c11f3932b9de4fa248c1ba050ac89352",
@@ -264,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/vikings_logo.309e518c.png"
   },
   {
-    "revision": "556fc98f1be7db96c60a2d1a5d323e95",
-    "url": "/static/media/vsc.556fc98f.svg"
+    "revision": "2d5ae04b1f83d2c4bb8c1c4957a24bfd",
+    "url": "/static/media/vsc.2d5ae04b.svg"
   },
   {
     "revision": "9a6f62531ba6158d3a7f13c6b707b79f",
