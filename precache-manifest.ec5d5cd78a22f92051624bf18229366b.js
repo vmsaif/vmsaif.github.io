@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b085dd1ab13303f30effa2846676be56",
+    "revision": "f230f4994192064478b6b8dd603b1a48",
     "url": "/index.html"
   },
   {
-    "revision": "891975fa0615723e45bf",
+    "revision": "8180c6cfdfc7f87cdcf2",
     "url": "/static/css/main.78eda25e.chunk.css"
   },
   {
-    "revision": "8fa0bfd30752d231d3d7",
-    "url": "/static/js/2.73bf8d74.chunk.js"
+    "revision": "43f2ebd9419d72d40ff3",
+    "url": "/static/js/2.49fb4492.chunk.js"
   },
   {
-    "revision": "891975fa0615723e45bf",
-    "url": "/static/js/main.d8141dbf.chunk.js"
+    "revision": "8180c6cfdfc7f87cdcf2",
+    "url": "/static/js/main.272a4178.chunk.js"
   },
   {
     "revision": "3b8e8c82881914a6d2b9",
@@ -78,6 +78,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21ab4078fddf489754ee3d43ba9a6ab1",
     "url": "/static/media/Junior_Laboratory_high_school.21ab4078.png"
+  },
+  {
+    "revision": "01f2fc4646697639ea93f4a32eba68df",
+    "url": "/static/media/LangChain-logo.01f2fc46.png"
+  },
+  {
+    "revision": "9c5b2e1be76cab225f8ee47e5aa0c257",
+    "url": "/static/media/LangChain-logo.9c5b2e1b.svg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",

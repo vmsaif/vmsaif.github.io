@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.78eda25e.chunk.css",
-    "main.js": "/static/js/main.d8141dbf.chunk.js",
-    "main.js.map": "/static/js/main.d8141dbf.chunk.js.map",
+    "main.js": "/static/js/main.272a4178.chunk.js",
+    "main.js.map": "/static/js/main.272a4178.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8cc0aa18.js",
     "runtime-main.js.map": "/static/js/runtime-main.8cc0aa18.js.map",
-    "static/js/2.73bf8d74.chunk.js": "/static/js/2.73bf8d74.chunk.js",
-    "static/js/2.73bf8d74.chunk.js.map": "/static/js/2.73bf8d74.chunk.js.map",
+    "static/js/2.49fb4492.chunk.js": "/static/js/2.49fb4492.chunk.js",
+    "static/js/2.49fb4492.chunk.js.map": "/static/js/2.49fb4492.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.13ac8eb8d448d60490b56db25a32eac9.js": "/precache-manifest.13ac8eb8d448d60490b56db25a32eac9.js",
+    "precache-manifest.ec5d5cd78a22f92051624bf18229366b.js": "/precache-manifest.ec5d5cd78a22f92051624bf18229366b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.78eda25e.chunk.css.map": "/static/css/main.78eda25e.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -20,6 +20,8 @@
     "static/media/Introduction to Image Generation.png": "/static/media/Introduction to Image Generation.e0f74eb9.png",
     "static/media/Introduction to Responsible AI.png": "/static/media/Introduction to Responsible AI.7c90ebf0.png",
     "static/media/Junior_Laboratory_high_school.png": "/static/media/Junior_Laboratory_high_school.21ab4078.png",
+    "static/media/LangChain-logo.png": "/static/media/LangChain-logo.01f2fc46.png",
+    "static/media/LangChain-logo.svg": "/static/media/LangChain-logo.9c5b2e1b.svg",
     "static/media/NewHorizonCLC.png": "/static/media/NewHorizonCLC.4c58e133.png",
     "static/media/Responsible AI_Applying AI Principles.png": "/static/media/Responsible AI_Applying AI Principles.303b7663.png",
     "static/media/SaifMahmud.png": "/static/media/SaifMahmud.13a89c44.png",
@@ -65,8 +67,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8cc0aa18.js",
-    "static/js/2.73bf8d74.chunk.js",
+    "static/js/2.49fb4492.chunk.js",
     "static/css/main.78eda25e.chunk.css",
-    "static/js/main.d8141dbf.chunk.js"
+    "static/js/main.272a4178.chunk.js"
   ]
 }
